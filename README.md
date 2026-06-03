@@ -38,8 +38,8 @@ Download and install from https://www.google.com/drive/download/
 pip install open3d plotly numpy
 ```
 
-### 4. Open the notebook
-Open `src/toby_seaboard_data.ipynb` in VS Code (requires the Jupyter extension).
+### 4. Create your own copy of the notebook
+Duplicate `src/toby_seaboard_data.ipynb` and rename it with your name in front — e.g. `src/john_seaboard_data.ipynb`. Each person works in their own copy so file paths and changes stay separate.
 
 ### 5. Set your Google account
 In **Cell 0**, update the email to match your Google account:
